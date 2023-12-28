@@ -10,11 +10,13 @@
 
 ## Skills
 
-| Category              | Skills                                                                                       |
-|-----------------------|----------------------------------------------------------------------------------------------|
-| Project Management    | - Agile methodologies<br> - Workflow<br> - Quality control (quality management, quality planning, quality assurance, quality improvement) |
-| Language Proficiency  | - Proficient in English                                                                      |
+| Category                   | Skills                                                                                       |
+|----------------------------|----------------------------------------------------------------------------------------------|
+| Project Management         | - Agile methodologies<br> - Workflow<br> - Quality control (quality management, quality planning, quality assurance, quality improvement) |
+| Language Proficiency       | - Proficient in English                                                                      |
 | Algorithms and Data Structures | - Expertise in algorithms and data structures                                                |
+| Design Patterns            | - Creational, Structural, and Behavioral Patterns<br> - Application of Design Patterns in software development |
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gato-Capitao&layout=compact&theme=transparent)
 
