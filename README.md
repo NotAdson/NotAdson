@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adson-gabriel-aa16a922a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat&logo=instagram)](https://www.instagram.com/i_lack_creativityo_o/)
-[![Lattes](https://img.shields.io/badge/Lattes-CV-yellowgreen?style=flat&logo=book-reader)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=F04BAE4D92EF5C80D3E4A1701533439A#)
+[![Lattes](https://img.shields.io/badge/Lattes-CV-yellowgreen?style=flat&logo=book-reader)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1C4ED02069DEDA6FA19FFC04AE34CD7F#)
 
 ## Skills
 
