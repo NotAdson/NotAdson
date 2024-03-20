@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adson-gabriel-aa16a922a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat&logo=instagram)](https://www.instagram.com/i_lack_creativityo_o/)
 [![Lattes](https://img.shields.io/badge/Lattes-CV-yellowgreen?style=flat&logo=book-reader)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1C4ED02069DEDA6FA19FFC04AE34CD7F#)
-![](https://komarev.com/ghpvc/?username=Gato-Capitao)
+![](https://komarev.com/ghpvc/?username=NotAdson)
 
 ## Skills
 
@@ -19,6 +19,6 @@
 | Design Patterns            | - Creational, Structural, and Behavioral Patterns<br> - Application of Design Patterns in software development |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gato-Capitao&layout=compact&theme=transparent&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdson&layout=compact&theme=transparent&langs_count=10)
 
 
