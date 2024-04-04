@@ -19,6 +19,6 @@
 | Design Patterns            | - Creational, Structural, and Behavioral Patterns<br> - Application of Design Patterns in software development |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdson&layout=compact&theme=transparent&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdson&layout=compact&theme=transparent&langs_count=20)
 
 
