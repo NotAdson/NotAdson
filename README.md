@@ -1,77 +1,50 @@
-# ヾ(•ω•`)o
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adson-gabriel-aa16a922a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat&logo=instagram)](https://www.instagram.com/i_lack_creativityo_o/)
-[![Lattes](https://img.shields.io/badge/Lattes-CV-yellowgreen?style=flat&logo=book-reader)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1C4ED02069DEDA6FA19FFC04AE34CD7F#)
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514729/9999/blob_cyber.gif?1643514729" width="30"/> Adson Gabriel | **CODE_ARTISAN** 
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/adson-gabriel-aa16a922a/)
+[![Lattes](https://img.shields.io/badge/-ACADEMIC_CV-32CD32?style=for-the-badge&logo=bookstack&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=1C4ED02069DEDA6FA19FFC04AE34CD7F#)
 
-- Hi! My name is Adson, I'm brasilian and born in 2006.
-- I'm a programmer with a technical background in digital game development. As a competitive coder, I've earned numerous medals, showcasing my skills in algorithmic problem-solving. I am a dedicated Linux user, having explored various distributions, and I bring experience in both software development and full-stack game development.
-- I am proficient in English, having participated in a 3-month exchange program in England. During this program, I immersed myself in an intensive English course and attended classes with native speakers, contributing to a significant improvement in my communication skills.
+```diff
 
-# Stack
-<table>
-  <thead>
-    <tr>
-      <th>General</th>
-      <th>Coding languages</th>
-      <th>Web development</th>
-      <th>Game development</th>
-      <th>Others</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="30">
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30">
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="30">
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height="30">
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="30">
-      </td>
-    </tr>
-  </tbody>
-</table>
+           _                   ____        _ _   _           _     
+  __ _  __| |___  ___  _ __   / __ \  __ _(_) |_| |__  _   _| |__  
+ / _` |/ _` / __|/ _ \| '_ \ / / _` |/ _` | | __| '_ \| | | | '_ \ 
+| (_| | (_| \__ \ (_) | | | | | (_| | (_| | | |_| | | | |_| | |_) |
+ \__,_|\__,_|___/\___/|_| |_|\ \__,_|\__, |_|\__|_| |_|\__,_|_.__/ 
+                              \____/ |___/                         
 
+```
 
+## **SYSTEM PROFILE** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+```diff
++ Brazilian tech enthusiast | Born: 2006 (Gen Z Digital Native)
++ Linux Power User
+```
 
-# Github Analysis
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdson&layout=compact&theme=transparent&langs_count=20)
+## **LANGUAGE PROCESSORS** <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="30">
+```diff
+! Native: Portuguese | Fluent: English
+```
+---
+## **TECHNOLOGY STACK** <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40">
+### **CORE SYSTEMS**
+![Linux](https://img.shields.io/badge/-LINUX-1793D1?logo=linux&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-BASH-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
+### **PROGRAMMING LANGUAGES**
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-RUST-000000?logo=rust&logoColor=white&style=for-the-badge)
 
+### **FULL STACK ENGINE**
+![React](https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+---
+## **CYBER STATS** <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40">
+<div align="center">
+  
+[![Adson's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAdson&layout=compact&theme=nightowl&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=00ffff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
