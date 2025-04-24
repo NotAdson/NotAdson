@@ -35,12 +35,17 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-RUST-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white&style=for-the-badge)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff&style=for-the-badge)
 
 ### **FULL STACK ENGINE**
 ![React](https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ---
 ## **CYBER STATS** <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40">
 <div align="center">
